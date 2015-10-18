@@ -1,7 +1,5 @@
 package com.iotek;
 
-//第一次修改
-
 public class OrderDemo1 {
 
 	public static void main(String[] args) {
